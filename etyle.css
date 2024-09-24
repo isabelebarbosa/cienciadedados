@@ -1,18 +1,5 @@
-h1{
-    color:rgb(255, 0, 191); 
-    font-size: 65px;
-    text-align: center;
-}
-h2{
-    color:rgb(0, 0, 0);
-}
-h3{
-    color:rgb(119, 0, 255);
-}
-h4{
-    color:rgb(55, 0, 255);
-}
-body{
-    font-size: 30px;
-    background: linear-gradient(rgb(145, 111, 153),rgb(196, 117, 196),rgb(253, 200, 255));
+:root{
+    --bg-color: #621
+
+
 }
